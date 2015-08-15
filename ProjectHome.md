@@ -1,0 +1,1 @@
+Client for enabling drop-box functionality as a JSR 286 portlet. Hosting environment is Liferay portals server
